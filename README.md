@@ -99,3 +99,8 @@ claude
 The named claude home volume keeps container-local settings, credentials, and
 sessions between runs.
 
+
+## How to update Claude Code?
+
+To update Claude Code, rebuild the Docker image.
+
